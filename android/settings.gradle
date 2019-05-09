@@ -1,0 +1,3 @@
+rootProject.name = 'TabBarIOS_Issue'
+
+include ':app'
